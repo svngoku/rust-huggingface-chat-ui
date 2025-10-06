@@ -197,15 +197,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Future Enhancements 🚀
 
-- [ ] Support for multiple conversation threads
-- [ ] Save/load conversation history
-- [ ] Export conversations to markdown
-- [ ] Support for streaming responses
+- [x] Support for multiple conversation threads
+- [x] Save/load conversation history
+- [x] Export conversations to markdown
+- [x] Support for streaming responses
 - [ ] Custom themes and color schemes
 - [ ] Plugin system for custom commands
-- [ ] Support for system prompts
-- [ ] Token usage tracking
-- [ ] Multi-language support
+- [x] Support for system prompts
+- [x] Token usage tracking
+- [x] Multi-language support
 
 ## Support 💬
 
