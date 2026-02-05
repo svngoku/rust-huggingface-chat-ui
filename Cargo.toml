@@ -1,9 +1,9 @@
 [package]
-name = "ai-chat-tui"
+name = "hugging-code"
 version = "0.1.0"
 edition = "2021"
 authors = ["Your Name"]
-description = "A TUI-based AI chat client for Hugging Face and other OpenAI-compatible APIs"
+description = "A modern TUI-based AI coding assistant powered by Hugging Face models"
 license = "MIT"
 
 [dependencies]

@@ -3,3 +3,4 @@
 .cursorindexingignore
 .specstory
 .specstory/**
+.beads/
